@@ -61,3 +61,4 @@ a)	GitHub combines a syntax for formatting text called GitHub Flavored Markdown 
 
 
 ## Summary
+In this module, we learned about working with text files, structured error handling, and using markdown language. We googled and research a number of webpages for reference on pickling and exception handling and reviewed them for helpfulness. Using information from those webpages as a starting point, we created our own pickling python code and an exception handling python code. We also answered a number of questions related to pickling, exception handling, and GitHub webpages and Markdown language.  Finally, we posted this Word document to our Mod07 GitHub webpage using Markdown language.
