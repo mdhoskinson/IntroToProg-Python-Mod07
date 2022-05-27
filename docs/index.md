@@ -72,7 +72,9 @@ def read_data_from_file(file_name):
 print (groceries)
 ```
 
-Python pickling demo code run using command line prompt:
+Python pickling demo in command prompt:
+
+
 
 ### Excpetion Handling
 Method: Create a while loop and use the try except method using the ValueError exception.  The ValueError exception is a built in function in Python and gets raised when a user gives an invalid value, typically used in a mathematical operation.
