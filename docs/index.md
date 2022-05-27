@@ -82,6 +82,22 @@ Method: Create a while loop and use the try except method using the ValueError e
 3.	When the user enters a valid age integer, print “Great, you successfully entered your age!”
 
 Exception Handling python code in full:
+```# ------------------------------------------------- #
+# Title: Error Handling demo
+# Description:  Error Handling demo using the ValueError exception
+# ChangeLog: (Who, When, What)
+# <Mellony Hoskinson> <5/25/2022> Created Script
+# ------------------------------------------------- #
+
+while True:
+    try:
+        age = input("Please enter your age: ")  # Asks user to enter their age
+        age = int(age)  # Declares the age variable as an integer
+        break
+    except ValueError:
+        print("That is not a valid interger ...")
+print("Great, you successfully entered your age!")
+```
 
 Exception Handling python code run using the command line prompt:
 
