@@ -36,15 +36,26 @@ This webpage includes a good description of what Exception Handling is in python
 ### Pickling a groceries list
 1.	Import the pickle module
 2.	Declare your groceries list
-
 3.	Open the groceries list and write a .dat (pickled) file using the ‘wb’ command (write binary).
 4.	Dump the groceries into the pickle file and close the file.
-
 5.	Open the groceries.dat pickled file using the ‘rb’ command (read binary).
 
 Python pickling demo code in full: 
 
+
 Python pickling demo code run using command line prompt:
+
+### Excpetion Handling
+Method: Create a while loop and use the try except method using the ValueError exception.  The ValueError exception is a built in function in Python and gets raised when a user gives an invalid value, typically used in a mathematical operation.
+
+1.	Create a while True loop and start the exception with the try.  Declare the age variable as an integer and ask the user to enter their age.
+2.	Using the ValueError exception function, if the user does not enter an integer, have it reply that they did not enter a valid integer and ask the user again to enter their age.
+3.	When the user enters a valid age integer, print “Great, you successfully entered your age!”
+
+Exception Handling python code in full:
+
+Exception Handling python code run using the command line prompt:
+
 
 ## Questions
 1)	What are the benefits of putting built-in Python command into functions?
