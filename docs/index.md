@@ -101,7 +101,7 @@ print("Great, you successfully entered your age!")
 ```
 
 Exception Handling python code run using the command line prompt:
-
+https://github.com/mdhoskinson/IntroToProg-Python-Mod07/blob/main/docs/ErrorHandling_cmd.png
 
 ## Questions
 1)	What are the benefits of putting built-in Python command into functions?
