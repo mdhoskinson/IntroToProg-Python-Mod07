@@ -73,6 +73,7 @@ print (groceries)
 ```
 
 Python pickling demo in command prompt:
+https://github.com/mdhoskinson/IntroToProg-Python-Mod07/blob/main/docs/Pickling_cmd.png
 
 
 
