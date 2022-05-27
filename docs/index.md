@@ -33,6 +33,18 @@ This webpage includes a good description of what Exception Handling is in python
 
 
 ## Methods
+### Pickling a groceries list
+1.	Import the pickle module
+2.	Declare your groceries list
+
+3.	Open the groceries list and write a .dat (pickled) file using the ‘wb’ command (write binary).
+4.	Dump the groceries into the pickle file and close the file.
+
+5.	Open the groceries.dat pickled file using the ‘rb’ command (read binary).
+
+Python pickling demo code in full: 
+
+Python pickling demo code run using command line prompt:
 
 ## Questions
 1)	What are the benefits of putting built-in Python command into functions?
