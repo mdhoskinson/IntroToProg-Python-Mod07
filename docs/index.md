@@ -41,7 +41,36 @@ This webpage includes a good description of what Exception Handling is in python
 5.	Open the groceries.dat pickled file using the ‘rb’ command (read binary).
 
 Python pickling demo code in full: 
+```
+# ------------------------------------------------- #
+# Title: Error Handling demo
+# Description:  Pickling your groceries list demo
+# ChangeLog: (Who, When, What)
+# <Mellony Hoskinson> <5/25/2022> Created Script
+# ------------------------------------------------- #
 
+import pickle
+groceries = ['banana', 'chicken', 'broccoli']
+print (groceries)
+
+# Data -------------------------------------------- #
+strFileName = 'groceries.dat'
+lstgroceries = []
+
+# Processing -------------------------------------- #
+def save_data_to_file(file_name, list_of_data):
+    objFile = open(file_name, "wb")
+    pickle.dump(list_of_data, objFile)
+    objFile.close()
+
+def read_data_from_file(file_name):
+    file = open(file_name, "rb")
+    list_of_data = pickle.load(file)
+    file.close()
+    return list_of_data
+
+print (groceries)
+```
 
 Python pickling demo code run using command line prompt:
 
