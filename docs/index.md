@@ -73,7 +73,7 @@ print (groceries)
 ```
 
 Python pickling demo in command prompt:
-[https://github.com/mdhoskinson/IntroToProg-Python-Mod07/blob/main/docs/Pickling_cmd.png](https://github.com/mdhoskinson/IntroToProg-Python-Mod07/blob/main/docs/Pickling_cmd.png?raw=true)
+[[https://github.com/mdhoskinson/IntroToProg-Python-Mod07/blob/main/docs/Pickling_cmd.png](https://github.com/mdhoskinson/IntroToProg-Python-Mod07/blob/main/docs/Pickling_cmd.png?raw=true)](https://raw.githubusercontent.com/mdhoskinson/IntroToProg-Python-Mod07/main/docs/Pickling_cmd.png)
 
 ### Excpetion Handling
 Method: Create a while loop and use the try except method using the ValueError exception.  The ValueError exception is a built in function in Python and gets raised when a user gives an invalid value, typically used in a mathematical operation.
