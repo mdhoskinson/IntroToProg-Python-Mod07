@@ -73,6 +73,7 @@ print (groceries)
 ```
 
 Python pickling demo in command prompt:
+
 ![Python pickling demo in command prompt](https://github.com/mdhoskinson/IntroToProg-Python-Mod07/blob/main/docs/Pickling_cmd.png?raw=true "Python pickling demo in command prompt")
 
 ### Excpetion Handling
@@ -101,6 +102,7 @@ print("Great, you successfully entered your age!")
 ```
 
 Excpetion Handling in command prompt:
+
 ![Exception Handling in command prompt](https://github.com/mdhoskinson/IntroToProg-Python-Mod07/blob/main/docs/ErrorHandling_cmd.png?raw=true "Exception Handling in command prompt")
 
 ## Questions
